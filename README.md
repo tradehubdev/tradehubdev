@@ -1,16 +1,24 @@
-## Hi there 👋
+## About NVSTly
 
-<!--
-**TradeHubDev/tradehubdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NVSTly is a free interactive social investing platform where traders can track, share, or [copy trades](https://nvstly.com/trades) in real-time with extensive insights on every position & in-depth performance stats, supporting all financial markets. Discover & follow [top ranked traders](https://nvstly.com/ranks) to receive live notifications of their trades, or compete against the best & climb the leaderboard. Paired with a [Discord community](https://nvstly.com/go/discord) of over 45,000 investors & traders of all experience levels.  
 
-Here are some ideas to get you started:
+<p align="center" width="100%">
+    <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links:
+[NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Github](https://github.com/nvstly)
+
+## Socials
+[Discord](https://nvstly.com/go/discord)  
+[X/Twitter](https://nvstly.com/go/x)  
+[YouTube](https://nvstly.com/go/youtube)  
+[TikTok](https://nvstly.com/go/tiktok)  
+[Instagram](https://nvstly.com/go/instagram)  
+[Stocktwits](https://nvstly.com/go/stocktwits)  
+[Linkedin](https://nvstly.com/go/linkedin)  
+[Facebook](https://nvstly.com/go/)
+
+## Awards
+People's Choice Award at Benzinga FinTech Deal Day & Awards 2024  
+#1 FinTech Product of the Week on Product Hunt (x2)
