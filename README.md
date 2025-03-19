@@ -1,10 +1,14 @@
-## About NVSTly
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="33%" src="assets/images/nvstly_banner.png" alt="NVSTly Banner">
+    </a>
+</p>
 
 NVSTly is a free interactive social investing platform where traders can track, share, or [copy trades](https://nvstly.com/trades) in real-time, with extensive insights on every position & in-depth performance stats, supporting all financial markets. Discover & follow [top ranked traders](https://nvstly.com/ranks) to receive live notifications of their trades, or compete against the best & climb the leaderboard. Paired with a [Discord community](https://nvstly.com/go/discord) of over 50,000 investors & traders of all experience levels.  
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="33%" src="assets/images/nvstly_banner.png" alt="NVSTly Banner">
+        <img width="33%" src="assets/images/nvstly_promo.gif" alt="NVSTly: Social Investing">
     </a>
 </p>
 
@@ -33,54 +37,41 @@ NVSTly is a free interactive social investing platform where traders can track, 
     <a href="https://nvstly.com/go/youtube" target="_blank">
     <img src="assets/icons/youtube.svg" alt="Subscribe to NVSTly on YouTube">
   </a>
-  </a>
     <a href="https://nvstly.com/go/tiktok" target="_blank">
     <img src="assets/icons/tiktok.svg" alt="Follow NVSTly on TikTok">
-  </a>
   </a>
     <a href="https://nvstly.com/go/instagram" target="_blank">
     <img src="assets/icons/instagram.svg" alt="Follow NVSTly on Instagram">
   </a>
-  </a>
     <a href="https://nvstly.com/go/threads" target="_blank">
     <img src="assets/icons/threads.svg" alt="Follow NVSTly on Threads">
-  </a>
   </a>
     <a href="https://nvstly.com/go/facebook" target="_blank">
     <img src="assets/icons/facebook.svg" alt="Follow NVSTly on Facebook">
   </a>
-  </a>
     <a href="https://nvstly.com/go/linkedin" target="_blank">
     <img src="assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
-  </a>
   </a>
     <a href="https://nvstly.com/go/bsky" target="_blank">
     <img src="assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
   </a>
-  </a>
     <a href="https://nvstly.com/go/mastodon" target="_blank">
     <img src="assets/icons/mastodon.svg" alt="Follow NVSTly on Mastodon">
-  </a>
   </a>
     <a href="https://nvstly.com/go/nostr" target="_blank">
     <img src="assets/icons/nostr.svg" alt="Follow NVSTly on Nostr">
   </a>
-  </a>
     <a href="https://nvstly.com/go/producthunt" target="_blank">
     <img src="assets/icons/producthunt.svg" alt="Follow NVSTly on Product Hunt">
-  </a>
   </a>
     <a href="https://nvstly.com/go/github" target="_blank">
     <img src="assets/icons/github.svg" alt="Check out NVSTly on GitHub">
   </a>
-  </a>
     <a href="https://nvstly.com/go/hive" target="_blank">
     <img src="assets/icons/hive.svg" alt="Follow NVSTly on Hive">
   </a>
-  </a>
     <a href="https://nvstly.com/go/medium" target="_blank">
     <img src="assets/icons/medium.svg" alt="Follow NVSTly on Medium">
-  </a>
   </a>
     <a href="https://nvstly.com/go/substack" target="_blank">
     <img src="assets/icons/substack.svg" alt="Subscribe to NVSTly on Substack">
